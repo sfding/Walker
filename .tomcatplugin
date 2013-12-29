@@ -7,5 +7,8 @@
     <updateXml>true</updateXml>
     <warLocation></warLocation>
     <extraInfo></extraInfo>
-    <webPath>/Walker</webPath>
+    <webPath></webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/WalkerTest/WebContent/WEB-INF/class</webClassPathEntry>
+    </webClassPathEntries>
 </tomcatProjectProperties>
